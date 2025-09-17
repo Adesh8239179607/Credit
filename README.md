@@ -43,7 +43,7 @@ To run the credit score predictor locally, follow these steps:
    ```shell
    python app.py
    ```
-4. Access the credit score predictor application by visiting [http://127.0.0.1:5000/predictdata](http://127.0.0.1:5000/predictdata) or the appropriate localhost URL.
+
 
 ## Contributing
 
@@ -55,4 +55,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ## Contact
 
-For any questions or inquiries, please contact amanraghu1c1301@gmail.com.
+For any questions or inquiries, please contact 
+Adeshmamta0515@gmail.com
